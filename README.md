@@ -11,8 +11,6 @@ Hey there! I'm Alireza, a passionate frontend developer who loves turning ideas 
 - Build scalable and efficient web apps with **React & TypeScript** ⚛️
 - Style things up with **Tailwind CSS, Ant Design, and SCSS** 🎨
 - Optimize UI/UX for a smooth and delightful user experience ✨
-- Manage state like a pro with **Redux Toolkit & React Query** 🔥
-- Work with **AG Grid** to handle data-heavy applications 📊
 - Push pixel-perfect designs to production 🚀
 
 ---
@@ -34,12 +32,7 @@ I'm always up for learning new things! Currently diving deeper into **Next.js** 
 - Udemy: JavaScript The Critical Parts Masterclass (2022)
 - Udemy: TypeScript Developer Course (2024)
 
----
-
-### 📫 Let's Connect!
-📍 Tehran, Iran  
-💼 [LinkedIn](https://www.linkedin.com/in/alireza-sedighi-front-end/)  
-📧 alireza.sedighi.job@gmail.com  
+ ---
 
 💻 Always excited to collaborate, build cool projects, and chat about tech! Hit me up! 🚀
 
